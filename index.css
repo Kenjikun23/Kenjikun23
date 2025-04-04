@@ -31,3 +31,8 @@ img{
 li{
     color: aliceblue;
 }
+.listed{
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+}
